@@ -122,6 +122,7 @@ oliver_util_package/excel/
 log/
 round.txt
 google-chrome*
+oliver.txt
 
 # PyInstaller
 #  Usually these files are written by a python script from a template
