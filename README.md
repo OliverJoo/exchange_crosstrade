@@ -3,17 +3,17 @@
  
  
  * Package structure
-├── config_file
-├── oliver_util_package
-│   ├── crawling_utils.py
-│   ├── db_utils.py
-│   ├── email_utils.py
-│   ├── excel
-│   ├── io_utils.py
-│   ├── log
-│   └── log_utils.py
-├── round.txt
-└── subAssignment.py
+ * ├── config_file
+ * ├── oliver_util_package
+ * │   ├── crawling_utils.py
+ * │   ├── db_utils.py
+ * │   ├── email_utils.py
+ * │   ├── excel
+ * │   ├── io_utils.py
+ * │   ├── log
+ * │   └── log_utils.py
+ * ├── round.txt
+ * └── subAssignment.py
 
  * Project File
    * round.txt : exchange rate round
