@@ -119,6 +119,7 @@ share/python-wheels/
 *.egg
 MANIFEST
 oliver_util_package/excel/
+log/
 round.txt
 
 # PyInstaller
