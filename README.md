@@ -8,9 +8,7 @@
  * │   ├── crawling_utils.py
  * │   ├── db_utils.py
  * │   ├── email_utils.py
- * │   ├── excel
  * │   ├── io_utils.py
- * │   ├── log
  * │   └── log_utils.py
  * ├── round.txt
  * └── subAssignment.py
