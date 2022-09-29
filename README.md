@@ -1,5 +1,5 @@
 # Oliver's sample library
- 
+ ----------------------------------------------------------------
  * Package structure
  * ├── config_file
  * ├── oliver_util_package
@@ -10,11 +10,11 @@
  * │   └── log_utils.py
  * ├── round.txt
  * └── subAssignment.py
-
+----------------------------------------------------------------
  * Project File
    * round.txt : exchange rate round
    * subAssignment.py : main file 
-
+----------------------------------------------------------------
  * oliver_util_package : Utility collection 
    * crawling_utils.py : Crawling function collection
    * db_utils.py : Database function collection
