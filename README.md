@@ -1,6 +1,4 @@
 # Oliver's sample library
- * sample library
- 
  
  * Package structure
  * ├── config_file
